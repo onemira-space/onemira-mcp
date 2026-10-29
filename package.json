@@ -1,0 +1,40 @@
+{
+  "name": "@onemira/mcp-server",
+  "version": "1.2.0",
+  "description": "Official Model Context Protocol (MCP) server & CLI bridge for the OneMira C1 AI Voice Recorder and local OKF Markdown (.md) Living Wiki.",
+  "homepage": "https://onemira.com/products/c1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onemira-space/onemira-mcp.git"
+  },
+  "license": "MIT",
+  "author": "OneMira AI <support@onemira.com> (https://onemira.com/products/c1)",
+  "type": "module",
+  "bin": {
+    "onemira-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-voice-recorder",
+    "onemira",
+    "onemira-c1",
+    "speaker-diarization",
+    "local-ai",
+    "obsidian",
+    "claude-code",
+    "cursor"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.3"
+  }
+}

@@ -6,8 +6,9 @@
 
   <p>
     <a href="https://registry.modelcontextprotocol.io/v0/servers?search=onemira"><img src="https://img.shields.io/badge/Anthropic_MCP_Registry-io.github.onemira--space%2Fonemira--mcp_(v1.2.1)-6f42c1?style=for-the-badge" alt="Official Anthropic MCP Registry" /></a>
+    <a href="https://glama.ai/mcp/servers/onemira-space/onemira-mcp"><img src="https://glama.ai/mcp/servers/onemira-space/onemira-mcp/badges/score.svg" alt="OneMira MCP Server on Glama" /></a>
     <a href="https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb"><img src="https://img.shields.io/badge/Claude_Desktop-1--Click_.mcpb_Extension-d97757?style=for-the-badge" alt="1-Click Claude Desktop .mcpb" /></a>
-    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Hardware-OneMira_C1_(%2499)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1" /></a>
+    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Hardware-OneMira_C1_(%2499_%C2%B7_4.9%E2%98%85_87_Reviews)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1" /></a>
     <a href="https://onemira.com/docs/mcp-integration"><img src="https://img.shields.io/badge/Docs-MCP_%26_CLI_Guide-008080?style=for-the-badge" alt="MCP Docs" /></a>
     <a href="https://onemira.com/download"><img src="https://img.shields.io/badge/Desktop-macOS_%26_Windows-2ea44f?style=for-the-badge" alt="Download Desktop" /></a>
     <a href="https://www.producthunt.com/products/onemira-c1"><img src="https://img.shields.io/badge/Product_Hunt-OneMira_AI-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
@@ -177,7 +178,11 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 | HeyPocket (Pocket AI) | $199 | Rolling 30-day summary window | $159/yr Pro | $199 – $676 | Standalone hardware | Cloud app + webhooks |
 | HiDock P1 | $169 | Claimable monthly allowance | $199/yr Pro | $169 – $766 | Desk/cable oriented BlueCatch dock | HiNotes app |
 | Anker Soundcore Work | $159.99 | 300 min/mo Starter cap | Paid Pro tiers | $160+ | 10 g coin wearable + case | Mobile cloud app |
+| Comulytic Note Pro | $179 | 300 min/mo cloud cap | Paid Pro tiers | $179+ | Card recorder | Cloud mobile app |
+| SwitchBot AI MindClip | $129.99 | Cloud subscription required | Paid cloud AI plan | $130+ | Clip wearable | SwitchBot cloud app |
 | Omi AI | $89 | Phone-paired tier | $16/mo Unlimited | $89 – $665 | Requires phone companion stream | Open APIs / cloud plugins |
 | Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
+
+Open machine-readable 2026 benchmark dataset (CC-BY-4.0): [CSV](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv) · [JSON](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json) · [JSONL](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.jsonl)
 
 Full localized comparisons: [onemira.com/compare](https://onemira.com/compare) · [No-Subscription Cost Breakdown](https://onemira.com/ai-voice-recorder-without-subscription) · [MCP Integration Docs](https://onemira.com/docs/mcp-integration)

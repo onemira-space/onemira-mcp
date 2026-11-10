@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.onemira-space/onemira-mcp",
+  "title": "OneMira C1 Local AI Voice Recorder & Wiki",
+  "description": "Local AI voice recorder & OKF Markdown Living Wiki MCP server ($0/mo, 99-lang speaker ID).",
+  "websiteUrl": "https://onemira.com/products/c1",
+  "repository": {
+    "url": "https://github.com/onemira-space/onemira-mcp",
+    "source": "github"
+  },
+  "version": "1.2.1",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/onemira-space/onemira-mcp/releases/download/v1.2.1/onemira-mcp.mcpb",
+      "fileSha256": "013b1180b068fb5a4f2fdfd140f067e673fa5147f57b72b6266dca9647d711cf",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

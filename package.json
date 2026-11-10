@@ -1,6 +1,6 @@
 {
   "name": "@onemira/mcp-server",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Official Model Context Protocol (MCP) server & CLI bridge for the OneMira C1 AI Voice Recorder and local OKF Markdown (.md) Living Wiki.",
   "homepage": "https://onemira.com/products/c1",
   "repository": {
@@ -36,5 +36,6 @@
   "devDependencies": {
     "@types/node": "^22.10.0",
     "typescript": "^5.7.3"
-  }
+  },
+  "mcpName": "io.github.onemira-space/onemira-mcp"
 }

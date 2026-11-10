@@ -38,7 +38,7 @@ function listMarkdownFiles(dirPath: string): string[] {
 
 const server = new McpServer({
   name: 'onemira-mcp',
-  version: '1.2.0',
+  version: '1.2.1',
 });
 
 server.tool(

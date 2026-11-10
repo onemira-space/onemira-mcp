@@ -1,0 +1,41 @@
+{
+  "manifest_version": "0.3",
+  "name": "onemira-mcp",
+  "display_name": "OneMira C1 Local AI Voice & Living Wiki",
+  "version": "1.2.1",
+  "description": "Official MCP server for the OneMira C1 AI Voice Recorder ($0/mo local AI, speaker diarization & OKF Markdown Living Wiki).",
+  "author": {
+    "name": "OneMira AI",
+    "email": "support@onemira.com",
+    "url": "https://onemira.com/products/c1"
+  },
+  "homepage": "https://onemira.com/products/c1",
+  "documentation": "https://onemira.com/docs/mcp-integration",
+  "support": "https://onemira.com/contact",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onemira-space/onemira-mcp.git"
+  },
+  "server": {
+    "type": "node",
+    "entry_point": "dist/index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": [
+        "${__dirname}/dist/index.js"
+      ],
+      "env": {
+        "ONEMIRA_VAULT_PATH": "${user_config.vault_path}"
+      }
+    }
+  },
+  "user_config": {
+    "vault_path": {
+      "type": "directory",
+      "title": "OneMira Local Vault Directory",
+      "description": "Path to your local OneMira OKF Markdown vault (defaults to ~/OneMira if left empty).",
+      "required": false
+    }
+  }
+}

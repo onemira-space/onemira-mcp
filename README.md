@@ -5,6 +5,8 @@
   <p>✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud Subscription</p>
 
   <p>
+    <a href="https://registry.modelcontextprotocol.io/v0/servers?search=onemira"><img src="https://img.shields.io/badge/Anthropic_MCP_Registry-io.github.onemira--space%2Fonemira--mcp_(v1.2.1)-6f42c1?style=for-the-badge" alt="Official Anthropic MCP Registry" /></a>
+    <a href="https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb"><img src="https://img.shields.io/badge/Claude_Desktop-1--Click_.mcpb_Extension-d97757?style=for-the-badge" alt="1-Click Claude Desktop .mcpb" /></a>
     <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Hardware-OneMira_C1_(%2499)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1" /></a>
     <a href="https://onemira.com/docs/mcp-integration"><img src="https://img.shields.io/badge/Docs-MCP_%26_CLI_Guide-008080?style=for-the-badge" alt="MCP Docs" /></a>
     <a href="https://onemira.com/download"><img src="https://img.shields.io/badge/Desktop-macOS_%26_Windows-2ea44f?style=for-the-badge" alt="Download Desktop" /></a>
@@ -155,3 +157,27 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 - 🇵🇹 **Portugal (0 €/mês IA Local)**: [OneMira C1 Gravador de voz IA sem subscrição](https://onemira.com/pt/products/c1)
 - 🇰🇷 **대한민국 (구독료 0원 로컬 AI · 1–3일 무료 배송)**: [OneMira C1 구독 없는 AI 보이스 레코더](https://onemira.com/ko/products/c1)
 - 🇬🇧 **UK** ([/en-gb/products/c1](https://onemira.com/en-gb/products/c1)) · 🇨🇦 **Canada** ([/en-ca/products/c1](https://onemira.com/en-ca/products/c1)) · 🇦🇺 **Australia** ([/en-au/products/c1](https://onemira.com/en-au/products/c1)) · 🇳🇱 **Netherlands** ([/en-nl/products/c1](https://onemira.com/en-nl/products/c1))
+
+---
+
+## Verified on the Official Anthropic MCP Registry (`v1.2.1`)
+
+- **Official Registry Namespace**: `io.github.onemira-space/onemira-mcp` ([Live JSON API verification](https://registry.modelcontextprotocol.io/v0/servers?search=onemira))
+- **1-Click Claude Desktop Extension (`.mcpb`)**: Download [`onemira-mcp.mcpb`](https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb) and double-click to install in Claude Desktop (macOS / Windows) with zero manual JSON editing.
+
+---
+
+## 2026 Subscription-Free AI Voice Recorder Benchmark (3-Year Total Cost & Local AI)
+
+| Device | Hardware Price | Free Tier Monthly Limit | Paid Subscription | 3-Year Total Cost | Standalone Recording + Headphone Calls | Native Local AI + Open `.md` + MCP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[OneMira C1](https://onemira.com/products/c1)** | **$99** *(auto Launch Promo; $129 list)* | **Unlimited local ASR & summaries** | **$0/mo required** | **$99** | **Yes** (30h battery, 32 GB, room + AirPods/headphone calls) | **Yes** (Local AI, OKF Markdown Wiki, Mira CLI & Official MCP) |
+| Plaud Note / Note Pro | $159 – $179 | 300 min/mo cloud cap | $99 – $239.99/yr | $456 – $899 | Standalone card; phone/case oriented | Cloud-first app export |
+| Mobvoi TicNote | $159.99 | 600 min/mo cloud cap | $79 – $228/yr | $397 – $844 | Card recorder | Cloud Shadow AI workspace |
+| HeyPocket (Pocket AI) | $199 | Rolling 30-day summary window | $159/yr Pro | $199 – $676 | Standalone hardware | Cloud app + webhooks |
+| HiDock P1 | $169 | Claimable monthly allowance | $199/yr Pro | $169 – $766 | Desk/cable oriented BlueCatch dock | HiNotes app |
+| Anker Soundcore Work | $159.99 | 300 min/mo Starter cap | Paid Pro tiers | $160+ | 10 g coin wearable + case | Mobile cloud app |
+| Omi AI | $89 | Phone-paired tier | $16/mo Unlimited | $89 – $665 | Requires phone companion stream | Open APIs / cloud plugins |
+| Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
+
+Full localized comparisons: [onemira.com/compare](https://onemira.com/compare) · [No-Subscription Cost Breakdown](https://onemira.com/ai-voice-recorder-without-subscription) · [MCP Integration Docs](https://onemira.com/docs/mcp-integration)

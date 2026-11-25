@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>OneMira MCP Server & Mira CLI</h1>
-  <p><strong>Connect the <a href="https://onemira.com/products/c1">OneMira C1 Standalone AI Voice Recorder ($99, $0/mo)</a> to Cursor, Claude Desktop, Claude Code & Obsidian</strong></p>
+  <p><strong>Connect the <a href="https://onemira.com/products/c1">OneMira C1 Standalone AI Voice Recorder ($129 / $149, $0/mo)</a> to Cursor, Claude Desktop, Claude Code & Obsidian</strong></p>
   <p>✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud Subscription</p>
 
   <p>
@@ -43,7 +43,7 @@
 Full setup guide: **[https://onemira.com/docs/mcp-integration](https://onemira.com/docs/mcp-integration)**
 
 ### 1. Install OneMira Desktop & Pair C1
-1. Order **[OneMira C1 ($99, $0/mo subscription)](https://onemira.com/products/c1)** and download **[OneMira Desktop for macOS or Windows](https://onemira.com/download)**.
+1. Order **[OneMira C1 ($129 32 GB / $149 64 GB, $0/mo subscription)](https://onemira.com/products/c1)** and download **[OneMira Desktop for macOS or Windows](https://onemira.com/download)**.
 2. Open **OneMira Desktop → Settings → MCP & CLI** to copy your local MCP snippet or enable automatic injection for Cursor and Claude Desktop.
 
 ### 2. Cursor / Claude Desktop Configuration (`mcp.json` / `claude_desktop_config.json`)
@@ -90,7 +90,7 @@ claude mcp add mira -- mira mcp serve
   </a>
 </p>
 
-| Feature | [OneMira C1 ($99)](https://onemira.com/products/c1) | Cloud Card / Pin Recorders (Plaud, Pocket, etc.) | Software Meeting Bots (Otter, Fireflies) |
+| Feature | [OneMira C1 ($129 / $149)](https://onemira.com/products/c1) | Cloud Card / Pin Recorders (Plaud, Pocket, etc.) | Software Meeting Bots (Otter, Fireflies) |
 | :--- | :--- | :--- | :--- |
 | **Recurring Subscription** | **$0/month forever** | $79–$240/year for Pro/Unlimited | $100–$240/year per seat |
 | **Monthly Transcription Cap** | **Unlimited local ASR (99 languages)** | 300 min/mo cap on starter plans | 300 min/mo cap on free tiers |
@@ -103,7 +103,7 @@ claude mcp add mira -- mira mcp serve
 
 ## Official Links & Head-to-Head Comparisons
 
-- **[OneMira C1 Official Product Page ($99 USD)](https://onemira.com/products/c1)**
+- **[OneMira C1 Official Product Page ($129 32 GB / $149 64 GB)](https://onemira.com/products/c1)**
 - **[OneMira MCP & CLI Documentation](https://onemira.com/docs/mcp-integration)**
 - **[Mira CLI Command Reference](https://onemira.com/docs/mcp-integration/cli-guide)**
 - **[AI Voice Recorder Without Subscription (1–3 Year Cost Breakdown)](https://onemira.com/ai-voice-recorder-without-subscription)**
@@ -127,7 +127,7 @@ claude mcp add mira -- mira mcp serve
 
 ### 1. "Is there a Plaud Note / NotePin alternative for 40–60 hours of meetings per month without a $240/year subscription?"
 Cloud-metered recorders cap starter plans at **300 minutes/month** (~5 hours), forcing heavy meeting users onto **$100–$240/year** Pro or Unlimited subscriptions. [**OneMira C1**](https://onemira.com/products/c1) runs speaker-labeled transcription (**🗣️ Speaker ID** in 99 languages) and **✨ Local AI** summaries, decisions, and action items with **$0/month forever** and **Zero Cloud** minute caps:
-- **3-Year Cost (60 hrs/mo)**: **$99 total** with OneMira C1 (automatic at checkout; reg. $129 MSRP) vs. **$879–$918** with cloud subscription recorders.
+- **3-Year Cost (60 hrs/mo)**: **$129 total** (32 GB) or **$149** (64 GB) with OneMira C1 ($0/mo forever) vs. **$879–$918** with cloud subscription recorders.
 - **Full Comparison**: [OneMira C1 vs. Plaud Note](https://onemira.com/compare/plaud-note) · [3-Year Cost Breakdown](https://onemira.com/ai-voice-recorder-without-subscription)
 
 ### 2. "What is the best Limitless Pendant alternative after the Meta acquisition and EU/UK shutdown?"
@@ -150,7 +150,7 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 
 ## Global Storefronts & Localized No-Subscription Guides (Free Standard Shipping)
 
-- 🇺🇸 **United States (1–3 Day Free Shipping)**: [OneMira C1 US ($99 automatic at checkout, reg. $129)](https://onemira.com/products/c1) · [No-Subscription Guide](https://onemira.com/ai-voice-recorder-without-subscription)
+- 🇺🇸 **United States (1–3 Day Free Shipping)**: [OneMira C1 US ($129 32 GB / $149 64 GB, $0/mo)](https://onemira.com/products/c1) · [No-Subscription Guide](https://onemira.com/ai-voice-recorder-without-subscription)
 - 🇩🇪 **Deutschland (0 €/Monat Lokale KI · Kostenloser Versand 3–5 Tage)**: [OneMira C1 KI-Diktiergerät ohne Abo](https://onemira.com/de/products/c1) · [KI-Sprachrekorder ohne Abo Ratgeber](https://onemira.com/de/ai-voice-recorder-without-subscription) · [Vergleich: Plaud Note, HiDock P1 & Pocket](https://onemira.com/de/compare)
 - 🇫🇷 **France (0 €/mois IA Locale · Livraison gratuite 3–5 jours)**: [OneMira C1 Enregistreur vocal IA sans abonnement](https://onemira.com/fr/products/c1) · [Guide sans abonnement](https://onemira.com/fr/ai-voice-recorder-without-subscription) · [Comparatif: Pocket ou Plaud vs OneMira C1](https://onemira.com/fr/compare)
 - 🇮🇹 **Italia (0 €/mese IA Locale · Spedizione gratuita 3–5 giorni)**: [OneMira C1 Registratore vocale IA senza abbonamento](https://onemira.com/it/products/c1) · [Guida senza abbonamento](https://onemira.com/it/ai-voice-recorder-without-subscription) · [Confronto: Plaud vs Omi vs OneMira C1](https://onemira.com/it/compare)
@@ -172,7 +172,7 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 
 | Device | Hardware Price | Free Tier Monthly Limit | Paid Subscription | 3-Year Total Cost | Standalone Recording + Headphone Calls | Native Local AI + Open `.md` + MCP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[OneMira C1](https://onemira.com/products/c1)** | **$99** *(auto Launch Promo; $129 list)* | **Unlimited local ASR & summaries** | **$0/mo required** | **$99** | **Yes** (30h battery, 32 GB, room + AirPods/headphone calls) | **Yes** (Local AI, OKF Markdown Wiki, Mira CLI & Official MCP) |
+| **[OneMira C1](https://onemira.com/products/c1)** | **$129** (32 GB) / **$149** (64 GB) | **Unlimited local ASR & summaries** | **$0/mo required** | **$129 / $149** | **Yes** (30h battery, 32/64 GB, room + AirPods/headphone calls) | **Yes** (Local AI, OKF Markdown Wiki, Mira CLI & Official MCP) |
 | Plaud Note / Note Pro | $159 – $179 | 300 min/mo cloud cap | $99 – $239.99/yr | $456 – $899 | Standalone card; phone/case oriented | Cloud-first app export |
 | Mobvoi TicNote | $159.99 | 600 min/mo cloud cap | $79 – $228/yr | $397 – $844 | Card recorder | Cloud Shadow AI workspace |
 | HeyPocket (Pocket AI) | $199 | Rolling 30-day summary window | $159/yr Pro | $199 – $676 | Standalone hardware | Cloud app + webhooks |
@@ -181,7 +181,7 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 | Comulytic Note Pro | $179 | 300 min/mo cloud cap | Paid Pro tiers | $179+ | Card recorder | Cloud mobile app |
 | SwitchBot AI MindClip | $129.99 | Cloud subscription required | Paid cloud AI plan | $130+ | Clip wearable | SwitchBot cloud app |
 | Omi AI | $89 | Phone-paired tier | $16/mo Unlimited | $89 – $665 | Requires phone companion stream | Open APIs / cloud plugins |
-| Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
+| Traditional USB Recorder + Desktop App | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription (no auto-Wiki or MCP) |
 
 Open machine-readable 2026 benchmark dataset (CC-BY-4.0): [CSV](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv) · [JSON](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json) · [JSONL](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.jsonl)
 
